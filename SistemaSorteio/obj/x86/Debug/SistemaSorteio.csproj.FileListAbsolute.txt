@@ -1,0 +1,12 @@
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\bin\Debug\SistemaSorteio.exe
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\bin\Debug\SistemaSorteio.pdb
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.frmPrincipal.resources
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.Properties.Resources.resources
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.csproj.GenerateResource.Cache
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.exe
+d:\users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.pdb
+D:\Users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.frmCadastro.resources
+D:\Users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.frmEvento.resources
+D:\Users\yuri_m\documents\visual studio 2010\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.frmSorteio.resources
+C:\Users\yurih\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.exe
+C:\Users\yurih\OneDrive\Documentos\Visual Studio 2013\Projects\SistemaSorteio\SistemaSorteio\obj\x86\Debug\SistemaSorteio.pdb
